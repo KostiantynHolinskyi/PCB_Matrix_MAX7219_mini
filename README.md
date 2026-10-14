@@ -7,4 +7,4 @@ PCB Matrix MAX7219 mini общий анод
 ![](https://github.com/GolinskiyKonstantin/PCB_Matrix_MAX7219_mini/blob/main/Matrix_MAX7219_mini_2.jpg)
 ![](https://github.com/GolinskiyKonstantin/PCB_Matrix_MAX7219_mini/blob/main/Matrix_MAX7219_mini_1.jpg)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
